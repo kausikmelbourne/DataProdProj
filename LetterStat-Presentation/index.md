@@ -11,7 +11,8 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Slide1 : Application overview  
+## Slide  1 : Application overview  
+Today (Mon Oct 26 01:14:46 2015), I have deployed an application - LetterStat.  
 LetterStat - A simple application for letter count and display barchart. It has following features -  
 
 1. Is is an web based application  
