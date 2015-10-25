@@ -1,0 +1,18 @@
+---
+title: "LetterStat - Application Help"
+author: "K Samanta"
+date: "25 October 2015"
+output: html_document
+---
+
+##Application Overview
+"LetterStat" is a simple application that display graph of the letter counts for the input text. Following is the link for the application-  
+https://kausikmelbourne.shinyapps.io/LetterStat  
+
+##Application Input
+The left panel of the application displays a text box for user input. The label of the textbox is "Enter any text". User need to enter the text into the box. User can type of copy paste the text from other sources.
+
+##Application Output
+Once text is entered, the application calculate the count of each letter. The upper and lower case letters are considered in the same category (A and a are counted as same letter). After calculating the count, a barplot is displayed with the counts of the letters. The application also displays the original text above the barplot.
+
+
